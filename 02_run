@@ -1,0 +1,3 @@
+#./bezier timing0.in t0.out
+./bezier timing1_1.in t1.out
+
